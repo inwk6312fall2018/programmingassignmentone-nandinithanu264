@@ -17,6 +17,7 @@ for line in myfile:
    line.insert(2,temp)#write output to final
    wrfile.write(str(line))
  wrfile.write(str(line))
+ #
 
 
 
